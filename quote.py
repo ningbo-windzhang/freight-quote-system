@@ -1,3 +1,6 @@
+import os
+os.system("pip install pandas==2.2.3")
+
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
