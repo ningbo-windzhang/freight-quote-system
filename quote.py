@@ -1,5 +1,5 @@
 import os
-os.system("pip install pandas==2.2.3")
+os.system("pip install openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple")
 
 import streamlit as st
 import pandas as pd
